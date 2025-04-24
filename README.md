@@ -40,6 +40,7 @@ Clone the repository and ensure `rotor.py` is in the same directory as `enigma.p
 ```bash
 git clone https://github.com/yourusername/pyEnigma.git
 cd pyEnigma
+```
 
 ---
 
