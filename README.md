@@ -65,3 +65,39 @@ enigma = Enigma(ref, r1, r2, r3, key="ABC", plugs="AB CD EF")
 cipher = enigma.encipher("Hello Enigma!")
 print(cipher)
 ```
+
+---
+
+### 🔑 Expected Output
+
+The output of the encryption will be:
+Wlfwb Jzrzxl!
+
+
+> **Note:** The actual ciphertext will vary depending on your rotor settings, plugboard configuration, and the key you use to initialize the Enigma machine.
+
+---
+
+### 🔄 Decryption
+
+To decrypt a message, simply pass the encrypted text back through the Enigma machine with the **same configuration** (i.e., same rotors, key, and plugboard settings).
+
+Example:
+
+```python
+# Decrypt the ciphertext
+decrypted_text = enigma.encipher("Wlfwb Jzrzxl!")
+print(decrypted_text)
+```
+
+---
+
+### 🔑 Expected Output
+
+The output of the encryption will be:
+Hello Enigma!
+
+
+
+
+
