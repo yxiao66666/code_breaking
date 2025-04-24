@@ -97,29 +97,12 @@ print(decrypted_text)
 The output of the encryption will be:
 Hello Enigma!
 
----
-
-### 📁 Project Structure
-pyEnigma/
-├── href="pyEnigma/enigma.py">enigma.py # Main Enigma machine logic
-├── href="pyEnigma/rotor.py">rotor.py # Contains Rotor and Reflector classes
-├── href="pyEnigma/README.md">README.md # Project documentation
-
-
-
-
-
-
-
 
 
 ---
 
 ### 👨‍💻 Author
-
-- **Christophe Goessen** (Original Author)
-- **Cédric Bonhomme**
-
+[yxiao66666](https://www.linkedin.com/in/yang~xiao/) 
 ---
 
 ### 📄 License
