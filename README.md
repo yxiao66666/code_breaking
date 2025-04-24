@@ -98,6 +98,26 @@ The output of the encryption will be:
 Hello Enigma!
 
 
+---
+
+### 👨‍💻 Author
+
+- **Christophe Goessen** (Original Author)
+- **Cédric Bonhomme**
+- Adapted and documented by contributors for educational use.
+
+---
+
+### 📄 License
+
+This project is licensed under the **GNU GPLv3** License. See the `LICENSE` file for details.
+
+---
+
+### 📚 Disclaimer
+
+This project is intended for **educational and illustrative purposes only**. It is **not suitable** for modern cryptographic use.
+
 
 
 
